@@ -4,5 +4,5 @@ import vue from '@vitejs/plugin-vue'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: '/2025-scanner'
+  base: '/2026-scanner'
 })
