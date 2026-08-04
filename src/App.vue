@@ -95,6 +95,8 @@ html, body {
 
   max-width: 75vw;
   max-height: 15vh;
+
+  object-fit: contain;
 }
 
 .scanner-container {
